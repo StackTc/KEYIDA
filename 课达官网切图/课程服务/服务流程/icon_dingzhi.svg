@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_dingzhi</title>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#FF6D3B" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FF6D3B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFE28E" stop-opacity="0.751857517" offset="0%"></stop>
+            <stop stop-color="#FFF2CC" stop-opacity="0.375437063" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#2456F3" stop-opacity="0.751857517" offset="0%"></stop>
+            <stop stop-color="#2456F3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon_dingzhi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill="#222222" x="0" y="77" width="80" height="3"></rect>
+        <path d="M0,40 C0,62.09139 17.90861,80 40,80 C62.09139,80 80,62.09139 80,40 L0,40 Z" id="路径" fill="url(#linearGradient-1)"></path>
+        <path d="M0,0 C0,22.09139 17.90861,40 40,40 C62.09139,40 80,22.09139 80,0 L0,0 Z" id="路径" fill-opacity="0.48" fill="url(#linearGradient-2)"></path>
+        <polygon id="路径" fill="url(#linearGradient-3)" points="49 38 33 17.8602246 38.3333333 8 59.6666667 8 65 17.8602246"></polygon>
+        <path d="M49.3555134,10 L28.6444866,10 L23,20.239144 L39,40 L55,20.239144 L49.3555134,10 Z M47.5522039,13.0102988 L51.3608368,19.9199379 L39,35.1881734 L26.6381503,19.9199379 L30.4467831,13.0102988 L47.5522039,13.0102988 Z" id="路径" fill="#222222" fill-rule="nonzero"></path>
+        <path d="M40,44.5 C58.3165237,44.5 73.1996805,59.1999915 73.495512,77.4460162 L73.5,78 L70.5,78 C70.5,61.1553151 56.8446849,47.5 40,47.5 C23.323762,47.5 9.77342524,60.8835744 9.50408613,77.4956267 L9.5,78 L6.5,78 C6.5,59.4984609 21.4984609,44.5 40,44.5 Z" id="路径" fill="#222222" fill-rule="nonzero"></path>
+        <rect id="矩形" fill="#222222" x="14" y="57" width="26" height="3"></rect>
+        <rect id="矩形备份-4" fill="#222222" x="40" y="61" width="27" height="3"></rect>
+        <rect id="矩形备份-3" fill="#222222" x="40" y="54" width="8" height="3"></rect>
+        <rect id="矩形备份-2" fill="#222222" x="9" y="67" width="17" height="3"></rect>
+        <rect id="矩形备份-5" fill="#222222" x="26" y="64" width="14" height="3"></rect>
+        <rect id="矩形备份-6" fill="#222222" x="40" y="67" width="14" height="3"></rect>
+    </g>
+</svg>

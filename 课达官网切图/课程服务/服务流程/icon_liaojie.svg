@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_liaojie</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFE28E" stop-opacity="0.751857517" offset="0%"></stop>
+            <stop stop-color="#FFF2CC" stop-opacity="0.375437063" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#2456F3" stop-opacity="0.751857517" offset="0%"></stop>
+            <stop stop-color="#2456F3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="55.0304367%" y1="96.7294053%" x2="55.0304367%" y2="3.03312578%" id="linearGradient-3">
+            <stop stop-color="#FF6D3B" offset="0%"></stop>
+            <stop stop-color="#FF6D3B" stop-opacity="0.657807037" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#2456F3" offset="0%"></stop>
+            <stop stop-color="#2456F3" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon_liaojie" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M80,13 L16,13 C16,48.346224 44.653776,77 80,77 L80,13 Z" id="路径" fill-opacity="0.48" fill="url(#linearGradient-1)"></path>
+        <g id="编组-29" transform="translate(25.000000, 27.000000)">
+            <rect id="矩形" fill="url(#linearGradient-2)" x="0" y="2.84217094e-14" width="6" height="6"></rect>
+            <rect id="矩形备份-10" fill="url(#linearGradient-2)" x="0" y="12" width="6" height="6"></rect>
+            <rect id="矩形备份-11" fill="url(#linearGradient-2)" x="0" y="24" width="6" height="6"></rect>
+            <rect id="矩形" fill="#222222" x="10" y="1" width="26" height="4"></rect>
+            <rect id="矩形" fill="#222222" x="10" y="13" width="26" height="4"></rect>
+            <rect id="矩形" fill="#222222" x="10" y="25" width="26" height="4"></rect>
+        </g>
+        <rect id="矩形备份" fill="#0B1E32" x="0" y="74" width="80" height="3"></rect>
+        <path d="M35,74 C35,60.745166 24.254834,50 11,50 L11,74 L35,74 Z" id="路径" fill="url(#linearGradient-3)"></path>
+        <rect id="矩形" fill="#0B1E32" x="8" y="14" width="3" height="62"></rect>
+        <rect id="矩形" fill="#0B1E32" x="69" y="14" width="3" height="62"></rect>
+        <rect id="矩形" fill="url(#linearGradient-4)" x="0" y="3" width="80" height="11" rx="5.5"></rect>
+    </g>
+</svg>
